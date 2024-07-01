@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    font-family: "Silkscreen", sans-serif;
+    /* font-family: "Monoton", sans-serif; */
+   
+}
+.title{
+    font-family: "Bungee Shade", sans-serif;
+}
+.table-font{
+    font-family: "Syncopate", sans-serif;
+    font-weight: 600;
+    color: rgb(65, 5, 121);
+}
